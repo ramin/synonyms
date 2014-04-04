@@ -1745,7 +1745,7 @@ sexual activity, sexual practice, sex, sex activity
 artificial insemination, AI
 sexual intercourse, intercourse, sex act, copulation, coitus, coition, sexual congress, congress, sexual relation, relation, carnal knowledge
 fuck, fucking, screw, screwing, ass, nooky, nookie, piece of ass, piece of tail, roll in the hay, shag, shtup
-sexual love, lovemaking, making love, love, love life
+sexual love, lovemaking, making love, love life
 statutory rape, carnal abuse
 coupling, mating, pairing, conjugation, union, sexual union
 unlawful carnal knowledge, criminal congress
@@ -15177,7 +15177,7 @@ middle, midriff, midsection
 waist, waistline
 belly, paunch
 pot, potbelly, bay window, corporation, tummy
-spare tire, love handle
+spare tire, love handle, muffin top
 navel, umbilicus, bellybutton, belly button, omphalos, omphalus
 abdomen, venter, stomach, belly
 abdominal, abdominal muscle, ab
@@ -19259,7 +19259,6 @@ longing, yearning, hungriness
 hankering, yen
 sex, sexual urge
 sexual desire, eros, concupiscence, physical attraction
-love, sexual love, erotic love
 sensuality, sensualness, sensualism
 amorousness, eroticism, erotism, sexiness, amativeness
 lecherousness, lust, lustfulness
@@ -23862,7 +23861,7 @@ Taoist, Tao
 believer, truster
 bellboy, bellman, bellhop
 belly dancer, exotic belly dancer, exotic dancer
-beloved, dear, dearest, honey, love
+beloved, dear, dearest, honey
 benedick, benedict
 beneficiary, donee
 bereaved, bereaved person
@@ -43063,7 +43062,7 @@ cuddle, snuggle, nestle, nest, nuzzle, draw close
 nestle, snuggle
 smooch, spoon
 neck, make out
-sleep together, roll in the hay, love, make out, make love, sleep with, get laid, have sex, know, do it, be intimate, have intercourse, have it away, have it off, screw, fuck, jazz, eff, hump, lie with, bed, have a go at it, bang, get it on, bonk
+sleep together, roll in the hay, make out, make love, sleep with, get laid, have sex, do it, be intimate, have intercourse, have it away, have it off, screw, fuck, jazz, eff, hump, lie with, bed, have a go at it, bang, get it on, bonk
 take, have
 serve, service
 deflower, ruin
